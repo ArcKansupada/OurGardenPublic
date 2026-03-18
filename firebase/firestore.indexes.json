@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "feedItem",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "communities",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "author",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

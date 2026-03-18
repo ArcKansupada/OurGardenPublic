@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>904752694230-ugpjqp7btjo2gl72eqqpv5g3j6kmd7ee.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.904752694230-ugpjqp7btjo2gl72eqqpv5g3j6kmd7ee</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>904752694230-jedqks00cpkujb30iev13dvaa38k5ac4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDGfu-iTTYu84Z1wiwJNTntKnFaV9iIR7Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>904752694230</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ourgarden.dev</string>
+	<key>PROJECT_ID</key>
+	<string>our-garden-w7e071</string>
+	<key>STORAGE_BUCKET</key>
+	<string>our-garden-w7e071.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:904752694230:ios:1c8e9d5be6dbc3ed0bda77</string>
+</dict>
+</plist>
